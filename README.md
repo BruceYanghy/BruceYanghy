@@ -49,12 +49,12 @@
 <table>
     <tr>
         <td>
-            <img width="550" alt="FinRL" src="https://user-images.githubusercontent.com/31713746/201139215-ea5d7cf3-cae6-4a72-8195-b8f7893e5162.png">
+            <img width="300" alt="FinRL" src="https://user-images.githubusercontent.com/31713746/201139215-ea5d7cf3-cae6-4a72-8195-b8f7893e5162.png">
         </td>
     </tr>
     <tr>
         <td>
-            <img width="600" alt="AI4Finance-Education" src="https://user-images.githubusercontent.com/31713746/201136813-9275e598-11d7-4f85-8f66-cca93b8a6de5.png">
+            <img width="300" alt="AI4Finance-Education" src="https://user-images.githubusercontent.com/31713746/201136813-9275e598-11d7-4f85-8f66-cca93b8a6de5.png">
         </td>
     </tr>
 </table>
