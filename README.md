@@ -49,7 +49,7 @@
 <table>
     <tr>
         <td>
-            <img width="600" alt="FinRL" src="https://user-images.githubusercontent.com/31713746/201139215-ea5d7cf3-cae6-4a72-8195-b8f7893e5162.png">
+            <img width="550" alt="FinRL" src="https://user-images.githubusercontent.com/31713746/201139215-ea5d7cf3-cae6-4a72-8195-b8f7893e5162.png">
         </td>
     </tr>
     <tr>
