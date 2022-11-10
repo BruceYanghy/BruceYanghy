@@ -49,7 +49,7 @@
 <table>
     <tr>
         <td>
-            <img width="600" alt="AI4Finance-Education" src="https://user-images.githubusercontent.com/31713746/201137075-f1689681-7d61-4a3b-8376-f0e963f4daa3.jpg">
+            <img width="600" alt="FinRL" src="[https://user-images.githubusercontent.com/31713746/201137075-f1689681-7d61-4a3b-8376-f0e963f4daa3.jpg](https://user-images.githubusercontent.com/31713746/201139215-ea5d7cf3-cae6-4a72-8195-b8f7893e5162.png)">
         </td>
     </tr>
     <tr>
