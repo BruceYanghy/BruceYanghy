@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: __FinRL-Meta & Concept Drift for Data Streams__ 
 - 🌱 I’m currently learning: __Blockchain, Web3, DAO, DeFi__
 - 💬 Ask me about __FinRL, FinRL-Meta, Deep Reinforcement Learning, Quant Research...__
-- 🦸‍♂️ Spiritual Idol: __Bruce Lee, Master Yoda, Iron Man__
+- 🦸‍♂️ Spiritual Idol: __Bruce Lee, Master Yoda, Iron Man, Laozi__
 
 <br/>
 
