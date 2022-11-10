@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, I'm Bruce Yang
 ### ML Engineer/Quant/Data Scientist
 
 - 🔭 I’m currently working on: __FinRL-Meta & Concept Drift for Data Streams__ 
