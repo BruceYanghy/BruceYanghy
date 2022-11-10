@@ -28,7 +28,6 @@
 <a href="https://www.linkedin.com/in/brucehy/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### My GitHub Stats
-[![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruceyanghy&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <table>
     <tr>
@@ -41,7 +40,7 @@
     </tr>
     <tr>
         <td>
-            <img src="[https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=bruceyanghy&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruceyanghy&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
