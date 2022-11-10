@@ -50,7 +50,6 @@
     <tr>
         <td>
             <img width="774" alt="AI4Finance-Education" src="https://user-images.githubusercontent.com/31713746/201137075-f1689681-7d61-4a3b-8376-f0e963f4daa3.jpg">
-
         </td>
     </tr>
     <tr>
