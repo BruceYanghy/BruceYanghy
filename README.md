@@ -43,7 +43,7 @@
     </tr>
 </table>
 
-
+<!-- 
 ###  [Education Channel](https://github.com/AI4Finance-Foundation/AI4Finance-Education)
 
 <table>
@@ -52,7 +52,7 @@
             <img width="450" alt="AI4Finance-Education" src="https://user-images.githubusercontent.com/31713746/201136813-9275e598-11d7-4f85-8f66-cca93b8a6de5.png">
         </td>
     </tr>
-</table>
+</table> -->
 
 
 
