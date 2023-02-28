@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Bruce Yang
-### ML Engineer/Quant/Data Scientist
+### Data Scientist/Quant/ML Engineer
 
 - 🔭 I’m currently working on: __FinRL-Meta__, __ChatGPT for FinTech__
 - 🌱 I’m currently learning: __Blockchain, Web3, DAO, DeFi__
