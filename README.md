@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://ai4finance.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="https://byfintech.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
         </td>
     </tr>
 </table>
