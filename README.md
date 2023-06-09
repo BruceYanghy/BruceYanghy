@@ -23,7 +23,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://youtube.com/@ByFinTech/"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"/></a>
+            <a href="https://youtube.com/@ByFinTech/"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"/></a>
         </td>
     </tr>
     
