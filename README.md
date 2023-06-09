@@ -18,6 +18,16 @@
             <a href="https://byfintech.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
         </td>
     </tr>
+        <tr>
+        <th>My YouTube</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://youtube.com/@ByFinTech/"><img src=" https://www.vectorlogo.zone/util/preview.html?image=/logos/youtube/youtube-tile.svg"/></a>
+        </td>
+    </tr>
+    
+   
 </table>
 
 
