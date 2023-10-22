@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Bruce Yang, 
-I founded the AI4Finance-Foundation in 2018 with a mission to drive advancements in artificial intelligence (AI) for the finance industry.
+I founded the AI4Finance-Foundation as a non-profit organization in 2018 with a mission to drive advancements in artificial intelligence (AI) for the finance industry.
 ### Data Scientist/Quant/ML Engineer
 
 - 🔭 I’m currently working on: __FinRL-Meta__, __ChatGPT for FinTech__
