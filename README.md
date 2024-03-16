@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Bruce Yang, 
 ### Data Scientist/Quant/ML Engineer
 
-- 🔭 I’m currently working on: __FinRL-Meta__, __ChatGPT for FinTech__
+- 🔭 I’m currently working on: __AI Agent, FinRobot__
 - 🌱 I’m currently learning: __Blockchain, Web3, DAO, DeFi__
 - 💬 Ask me about __AI Agent, FinGPT, FinRL, FinRL-Meta, Deep Reinforcement Learning, Quant Research...__
 - 🦸‍♂️ Spiritual Idol: __Bruce Lee, Master Yoda, Iron Man, Laozi__
