@@ -50,7 +50,7 @@ These projects are used by **researchers, students, and practitioners worldwide*
 
 ## Writing & Knowledge Sharing
 
-- 📖 **Medium**: https://byfintech.medium.com  
+- 📖 **Medium**: https://ai4finance.medium.com  
 - 🎥 **YouTube**: https://youtube.com/@ByFinTech  
 
 I regularly write and speak about:
