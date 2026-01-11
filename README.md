@@ -1,73 +1,80 @@
-# Hi there 👋, I'm Bruce Yang, 
-### Data Scientist/Quant/ML Engineer
+# Hi, I’m Bruce Yang 👋  
+### Founder & President, AI4Finance Foundation  
+*Data Scientist · Quant · AI Agent Builder*
 
-- 🔭 I’m currently working on: __AI Agent, FinRobot__
-- 🌱 I’m currently learning: __Blockchain, Web3, DAO, DeFi__
-- 💬 Ask me about __AI Agent, FinGPT, FinRL, FinRL-Meta, Deep Reinforcement Learning, Quant Research...__
-- 🦸‍♂️ Spiritual Idol: __Bruce Lee, Master Yoda, Iron Man, Laozi__
+---
 
-<br/>
+## About Me
 
+I am the **Founder & President of the AI4Finance Foundation**, a global open-source community dedicated to advancing **Artificial Intelligence in Finance**.
 
-<table>
-    <tr>
-        <th>My Blog</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://byfintech.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
-        </td>
-    </tr>
-        <tr>
-        <th>My YouTube</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://youtube.com/@ByFinTech/"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"/></a>
-        </td>
-    </tr>
-    
-   
-</table>
+My work focuses on building **open, reproducible, and production-grade AI systems** that bridge academic research and real-world financial applications — from **LLM-based agents** to **reinforcement learning–driven trading systems**.
 
+👉 **AI4Finance Foundation**  
+https://github.com/AI4Finance-Foundation
 
+> Open-source is not a hobby — it is the foundation of scalable, trustworthy financial AI.
 
-### My GitHub Stats
+---
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=bruceyanghy&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruceyanghy"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=bruceyanghy&count_private=true&show_icons=true&theme=synthwave"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruceyanghy&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
+## Core Open-Source Ecosystem
 
-<!-- 
-###  [Education Channel](https://github.com/AI4Finance-Foundation/AI4Finance-Education)
+The AI4Finance ecosystem consists of multiple widely adopted projects, forming one of the most comprehensive open-source stacks for AI-driven finance:
 
-<table>
-    <tr>
-        <td>
-            <img width="450" alt="AI4Finance-Education" src="https://user-images.githubusercontent.com/31713746/201136813-9275e598-11d7-4f85-8f66-cca93b8a6de5.png">
-        </td>
-    </tr>
-</table> -->
+- **FinGPT** – Financial Large Language Models & AI Agents  
+- **FinRL** – Deep Reinforcement Learning for Quantitative Trading  
+- **FinRobot** – AI Agent for End-to-End Equity Research & Analysis  
+- **FinRL-Meta** – Scalable Meta-RL Infrastructure for Trading Systems  
 
+These projects are used by **researchers, students, and practitioners worldwide**, spanning academia, fintech startups, and quantitative finance teams.
 
+---
 
-### Contact me:
+## What I’m Working On
 
-<a href="https://twitter.com/By_FinTech"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/brucehy/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+- AI Agents for financial research, decision-making, and automation  
+- LLM + RL systems for real-world trading and market understanding  
+- Open-source → Platform → Capital transformation in financial AI  
+- Bridging academic innovation with production-grade financial systems  
 
+---
+
+## Global Impact
+
+- 🌍 Contributors and users from **60+ countries**  
+- 🎓 Adopted in **university courses and academic research**  
+- 🏦 Referenced by **quant teams, financial institutions, and fintech startups**  
+- 📄 Cited across AI, finance, and interdisciplinary research venues  
+
+---
+
+## Writing & Knowledge Sharing
+
+- 📖 **Medium**: https://byfintech.medium.com  
+- 🎥 **YouTube**: https://youtube.com/@ByFinTech  
+
+I regularly write and speak about:
+
+**AI Agents · Financial LLMs · Quant Research · Reinforcement Learning · Open-Source Ecosystems**
+
+---
+
+## Interests & Exploration
+
+- 🌱 Currently exploring: **Blockchain, Web3, DAO, DeFi**  
+- 💬 Ask me about: **AI Agents, FinGPT, FinRL, FinRobot, Deep Reinforcement Learning, Quant Research**
+
+---
+
+## Philosophical Inspirations
+
+🦸‍♂️ Bruce Lee · Laozi · Master Yoda · Iron Man  
+
+> Build systems that are simple at the core, but powerful at scale.
+
+---
+
+## Contact
+
+- Twitter / X: https://twitter.com/By_FinTech  
+- LinkedIn: https://www.linkedin.com/in/brucehy/  
